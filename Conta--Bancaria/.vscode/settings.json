@@ -3,5 +3,46 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "cSpell.words": [
+        "Adiciona",
+        "Agencia",
+        "agência",
+        "Cliente",
+        "conta",
+        "Conta",
+        "Corrente",
+        "criar",
+        "deposito",
+        "depósito",
+        "Desconhecida",
+        "Digite",
+        "Diminui",
+        "Disponivel",
+        "disponível",
+        "está",
+        "insuficiente",
+        "nosso",
+        "numero",
+        "Obrigado",
+        "Operação",
+        "Poupanca",
+        "realizada",
+        "realizado",
+        "saldo",
+        "Saldo",
+        "saque",
+        "Saque",
+        "Subtrai",
+        "sucesso",
+        "suficiente",
+        "tipo",
+        "Tipo",
+        "valido",
+        "Verifica",
+        "Vindo",
+        "volte"
+        
+    ],
+      
 }
